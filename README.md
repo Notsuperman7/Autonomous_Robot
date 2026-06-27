@@ -48,9 +48,9 @@ The software is organized into independent ROS2 packages:
 
 ### Sensors
 
-* USB Camera
+* Raspberry Pi Professional Camera (5MP - 200°FOV)
 * IMU
-* Distance Sensors
+* (TOF + IR) Sensors
 
 ### Drive System
 
