@@ -141,7 +141,7 @@ source install/setup.bash
 
 ## Author
 
-**Nour Eldin**
+**Nour Eldin** And **Mark George**
 
 Mechatronics Engineering Student
 
